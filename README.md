@@ -58,7 +58,7 @@ $ ng serve
 * ... and many more packages. In top level of project folder, open `package.json` in Atom (or your preferred text editor) and look for `"devDependencies"` and `"dependencies"` respectively to see the entire list.
 
 ### Contact details
-_Email [kbordon@gmail.com](mailto:kbordon@gmail.com) or  [rane.fields@gmail.com](mailto:rane.fields@gmail.com) for comments, questions, or concerns._
+_Email [kbordon@gmail.com](mailto:kbordon@gmail.com), [rane.fields@gmail.com](mailto:rane.fields@gmail.com) or [michaelarringtoniphone@gmail.com](mailto:michaelarringtoniphone@gmail.com) for comments, questions, or concerns._
 
 ### License
 *This software is licensed under the MIT license.*
